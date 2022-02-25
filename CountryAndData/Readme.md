@@ -4,4 +4,4 @@ Three datasets have been used (they can be found in assets folder):-<br>
 2) [Sciamgo Journal and Country Rank data for Energy Engineering and Power Technology](http://www.scimagojr.com/countryrank.php?category=2102)<br>
 3) [Countries' GDP from 1960 to 2015 from World Bank](http://data.worldbank.org/indicator/NY.GDP.MKTP.CD)<br>
 
-The above three datasets are merged and are anlysed to find correlation between many parameters using Pandas, Numpy, Matplotlib and Persons' Correlation. 
+The above three datasets are merged and are anlysed to find correlation between many parameters using Pandas, Numpy, Matplotlib and Persons' Correlation (from scipy.stats). 
